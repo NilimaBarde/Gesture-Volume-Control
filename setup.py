@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='Gesture Volume Control',
     version= '0.0.1',
-    author= 'Ayush',
-    author_email='dhabaleayush96@gmail.com',
+    author= 'Nilima',
+    author_email='nilimabarde02@gmail.com',
     install_requires = get_requirements("requirements.txt"),
     packages= find_packages()
 
