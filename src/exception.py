@@ -1,7 +1,6 @@
 import sys
 from src.logger import logging
 
-#This is a error message function
 def error_message_detail(error,error_detail:sys):
     '''
     This  Function is used to print a detailed error message 
